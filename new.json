@@ -1,0 +1,733 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "CoQC8wAAAIR6wS4RGLbjQbMOib0f4XI11ygpoThnUjxqk-l6xicIKnpdwRlwDZbuzEoLiBBKa3L_i1nD3N0Q58hdKHKV0kXHgR5YxjrfaIg83_gI6OOPQo7nDEVMarGvE2XN5Poksd7hoCxXajpgUbz-1ERVtvQwLgjOQokWzZ63jx6GsTjIC-IU0mnqGJZqHx4mBgBJtgAB7Tnw8LNH6API0v2orvMpU6_VVo7Lak6DsX5Zb3sQ-wwiu6NnFSTP99DT184uo8TUeFJ3hZRHO_hg7KXZrqF8FDFNxw5buXJx-BcSi9ucvQDA7J7-d6p_YttMmcH_y1KTR31-IIdAmGoTiOup-uMSEOnwbBoTBt3Z4q8aHBjxMfgaFONLtD5Qfn_X4FlI40Rbr93UfILz",
+    "results" : [
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Valummel, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9312328,
+                "lng" : 76.26730409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932581729892721,
+                   "lng" : 76.26865237989271
+                },
+                "southwest" : {
+                   "lat" : 9.929882070107277,
+                   "lng" : 76.26595272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Govt. UP School, Thokkupara",
+          "permanently_closed" : true,
+          "place_id" : "ChIJ11X5Gn9tCDsRyhJGidOYGJk",
+          "rating" : 0,
+          "reference" : "ChIJ11X5Gn9tCDsRyhJGidOYGJk",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Thiruvaniyoor, Kochi, Kerala 682313, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9312328,
+                "lng" : 76.26730409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932581729892721,
+                   "lng" : 76.26865237989271
+                },
+                "southwest" : {
+                   "lat" : 9.929882070107277,
+                   "lng" : 76.26595272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "St Philominas High School",
+          "permanently_closed" : true,
+          "place_id" : "ChIJFdePqXptCDsRNVbdUjFyz5A",
+          "rating" : 0,
+          "reference" : "ChIJFdePqXptCDsRNVbdUjFyz5A",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "SJCRRA-68, Aroor - Thoppumpady Rd, Valummel, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9312328,
+                "lng" : 76.26730409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932581729892721,
+                   "lng" : 76.26865242989273
+                },
+                "southwest" : {
+                   "lat" : 9.929882070107277,
+                   "lng" : 76.26595277010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Mary Maths ICSE School,Pudukad",
+          "permanently_closed" : true,
+          "place_id" : "ChIJ11X5Gn9tCDsRxEoYQEbdACY",
+          "rating" : 0,
+          "reference" : "ChIJ11X5Gn9tCDsRxEoYQEbdACY",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Valummel, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9312328,
+                "lng" : 76.26730409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932581729892721,
+                   "lng" : 76.26865237989271
+                },
+                "southwest" : {
+                   "lat" : 9.929882070107277,
+                   "lng" : 76.26595272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Carmel Public School Thengode",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 780,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115956879160495207553\"\u003eMartin George\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA6Z1c8-3CWAER27wjJvKwb7F9Bj-lPizn5Lih3uWXW3-ZZFsN584YiSQPtfB0Jkk5UX8CMvrcLoyUDuPmY74JLbpDuDIWu9zEbzKDs3hLaLtTIrW7WmNQu0KFhGfdYT5TEhByl_VdIaE7XhqVo5sq4OGiGhT0izyS17NC_8QTgH_w7iZcAWOSjQ",
+                "width" : 1040
+             }
+          ],
+          "place_id" : "ChIJW3x7YbxtCDsRhjwHKsOTnuo",
+          "plus_code" : {
+             "compound_code" : "W7J8+FW Kochi, Kerala",
+             "global_code" : "6JXRW7J8+FW"
+          },
+          "rating" : 0,
+          "reference" : "ChIJW3x7YbxtCDsRhjwHKsOTnuo",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "periyar Gardence,Varapuzha,Ernakulam, Kochi, Kerala 682021, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9312328,
+                "lng" : 76.26730409999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932581729892721,
+                   "lng" : 76.26865237989271
+                },
+                "southwest" : {
+                   "lat" : 9.929882070107277,
+                   "lng" : 76.26595272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "spa gurukulam",
+          "permanently_closed" : true,
+          "place_id" : "ChIJFdePqXptCDsRnpOuFnRZI6g",
+          "rating" : 0,
+          "reference" : "ChIJFdePqXptCDsRnpOuFnRZI6g",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Manikkath cross road, near city gas agencies, Ernakulam, Kerala, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9312328,
+                "lng" : 76.267304
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932581729892721,
+                   "lng" : 76.26865237989271
+                },
+                "southwest" : {
+                   "lat" : 9.929882070107277,
+                   "lng" : 76.26595272010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "House Of Accountancy",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 3840,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100233310920802813086\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAESLETt7-nO_H2pUaQd3qka8P86Wl1xpiO81FpF8E4ZqwXQ-Y2spIZo6SqblyVpU1cW2Dmw5l3F1NO-wJcHsOoYq0eU5kIoaO0NMrsS3uptghUKu8FvAIXxO22p7fUEJkEhDxqAiLEFh3H7DVCX88tDGjGhTWBAroPyBUGDBruPjKpxA--GZg5Q",
+                "width" : 5120
+             }
+          ],
+          "place_id" : "ChIJg_ZJzdttCDsRaHZEHfQjJZo",
+          "rating" : 0,
+          "reference" : "ChIJg_ZJzdttCDsRaHZEHfQjJZo",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Thoppumpady, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9340151,
+                "lng" : 76.2652069
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.935386229892723,
+                   "lng" : 76.26651157989272
+                },
+                "southwest" : {
+                   "lat" : 9.932686570107279,
+                   "lng" : 76.26381192010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "St Sebastian's Higher Secondary School",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1920,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116954257305684088333\"\u003eSREYAS MURALI\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAqgfdRCvyLFjchduRXI8Uty4Yfrr8DkSXdoh2RGDGjTXU0IFhP06WUowxCebL7KR5o8tpbm5zYw1guAFsptViR7-JvfNFVGec_DYjTmb6ldPOSZ3hRHiUmyJJQ6gDUsqbEhAfuNHEh_Sfgiw0rUtxV8-XGhS3VUGLgaMcFK8KuYuAv0LUoxGsoA",
+                "width" : 2560
+             }
+          ],
+          "place_id" : "ChIJTfJCU3ltCDsRi7p8rPBhj8Q",
+          "plus_code" : {
+             "compound_code" : "W7M8+J3 Kochi, Kerala",
+             "global_code" : "6JXRW7M8+J3"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJTfJCU3ltCDsRi7p8rPBhj8Q",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 41
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "IIPM Tower, Starlight Arcade, 40/9210 Dwarai Swami, Iyyer Lane, MG Road, Ernakul, Kochi, Kerala 682035, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.931588999999999,
+                "lng" : 76.26736799999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.932876429892719,
+                   "lng" : 76.26862477989272
+                },
+                "southwest" : {
+                   "lat" : 9.930176770107275,
+                   "lng" : 76.26592512010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "IIPM",
+          "permanently_closed" : true,
+          "place_id" : "ChIJn2HgHH9tCDsR44KjRXZ7Eew",
+          "plus_code" : {
+             "compound_code" : "W7J8+JW Kochi, Kerala",
+             "global_code" : "6JXRW7J8+JW"
+          },
+          "rating" : 0,
+          "reference" : "ChIJn2HgHH9tCDsR44KjRXZ7Eew",
+          "types" : [ "university", "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "XIII/960, Tagore Road, Thakkyavu Rd, Karuvelipady, Thopumpady, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.941773899999999,
+                "lng" : 76.25994849999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.943131979892721,
+                   "lng" : 76.26136307989272
+                },
+                "southwest" : {
+                   "lat" : 9.940432320107277,
+                   "lng" : 76.25866342010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Radcliffe School Kochi",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 1152,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104444696177410230280\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAABgYenyIp8_jVkiZhgjdWKtrl1Sc2CPIpLH6LnrAV9UYZiB8gv17BGb1ydJcJh_uSDb_KiYYLOOiM0_sQ_8lAFqB4mt9QW5EmXt_-u619Ksnbp6ogGbYoC4X0GhdfZ6pqEhCfOXDtmpI0cAtWnkaf79TWGhT-4xPmRz3g-ChdiVbqQdNevc945w",
+                "width" : 532
+             }
+          ],
+          "place_id" : "ChIJJVDJc2VtCDsReFpg8gpYzCY",
+          "plus_code" : {
+             "compound_code" : "W7R5+PX Kochi, Kerala",
+             "global_code" : "6JXRW7R5+PX"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJJVDJc2VtCDsReFpg8gpYzCY",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 28
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Karuvelipady, Thoppumpady, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.936454999999999,
+                "lng" : 76.26179329999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.937724779892722,
+                   "lng" : 76.26291462989272
+                },
+                "southwest" : {
+                   "lat" : 9.935025120107278,
+                   "lng" : 76.26021497010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "OLGHS school",
+          "place_id" : "ChIJ48lbUHptCDsRHKDAH-tNs8c",
+          "plus_code" : {
+             "compound_code" : "W7P6+HP Kochi, Kerala",
+             "global_code" : "6JXRW7P6+HP"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ48lbUHptCDsRHKDAH-tNs8c",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Aroor - Thoppumpady Rd, Thoppumpady, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.933766799999999,
+                "lng" : 76.2649543
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.935037779892724,
+                   "lng" : 76.26620937989271
+                },
+                "southwest" : {
+                   "lat" : 9.93233812010728,
+                   "lng" : 76.26350972010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "St Sebastian's LP School",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 2160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116488989656030365683\"\u003ePeter Augustine Kaitheth\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA4xtiK-YMHHDbLXVngGN01-sVOHkDekFzvsVctSVUJL71sBSFamUxYXAprq92KlOZmyLVMjlZA2kvskbkTVVBbDYQDC9w5tVtfTiaAN_O0OrgE4PgHKcysxQlNt7t5BFNEhBAhklMwlJeaZYLGRM3MPTVGhSATJ90D54_er4YJLN23Si_2wf6cQ",
+                "width" : 3840
+             }
+          ],
+          "place_id" : "ChIJvRFUU3ltCDsRik8heU_SDxY",
+          "plus_code" : {
+             "compound_code" : "W7M7+GX Kochi, Kerala",
+             "global_code" : "6JXRW7M7+GX"
+          },
+          "rating" : 4,
+          "reference" : "ChIJvRFUU3ltCDsRik8heU_SDxY",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 9
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Binny Rd, Palluruthy, Kochi, Kerala 682006, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.924837999999999,
+                "lng" : 76.2762985
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.926165879892723,
+                   "lng" : 76.27751772989271
+                },
+                "southwest" : {
+                   "lat" : 9.923466220107279,
+                   "lng" : 76.27481807010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Auxilium English Medium ICSE School",
+          "permanently_closed" : true,
+          "place_id" : "ChIJ_wn7pH5yCDsR5MqbiVawlZ8",
+          "plus_code" : {
+             "compound_code" : "W7FG+WG Kochi, Kerala",
+             "global_code" : "6JXRW7FG+WG"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJ_wn7pH5yCDsR5MqbiVawlZ8",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 17
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Valummel, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9287209,
+                "lng" : 76.26169729999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.930030829892724,
+                   "lng" : 76.26296837989273
+                },
+                "southwest" : {
+                   "lat" : 9.92733117010728,
+                   "lng" : 76.26026872010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Holy Eucharist Nursery School",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 2217,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110052144991587749370\"\u003eManoj Jesudas\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAaC3XEGbtXPAfz93-pVRFUWuSf2S2aWy4YkiLu6KwgwLFtQwf7xbW3aiVyE9CMM-qcTN7M0vSOeM61vJFddj8CpsI7lbWKRgDFTANCj_4CdPoxPdw8i2W2K2uL_FnDMoAEhDrp_vQwSC5SJnKvPNDCPvCGhQItdFpbKa4ac7NY31pApOTTEVL_A",
+                "width" : 3288
+             }
+          ],
+          "place_id" : "ChIJJ-LJgoJtCDsRDfC5HoFh_no",
+          "plus_code" : {
+             "compound_code" : "W7H6+FM Kochi, Kerala",
+             "global_code" : "6JXRW7H6+FM"
+          },
+          "rating" : 0,
+          "reference" : "ChIJJ-LJgoJtCDsRDfC5HoFh_no",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "SH66, Karuvelipady, Thoppumpady, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9357887,
+                "lng" : 76.26236759999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.936866629892723,
+                   "lng" : 76.26372932989271
+                },
+                "southwest" : {
+                   "lat" : 9.934166970107279,
+                   "lng" : 76.26102967010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Rosary school",
+          "permanently_closed" : true,
+          "place_id" : "ChIJ85EuS3ptCDsR1GzLSVpSFNM",
+          "plus_code" : {
+             "compound_code" : "W7P6+8W Kochi, Kerala",
+             "global_code" : "6JXRW7P6+8W"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ85EuS3ptCDsR1GzLSVpSFNM",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Naval Base, Willingdon Island, Kochi, Kerala 682004, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.945962,
+                "lng" : 76.2790605
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.94714347989272,
+                   "lng" : 76.28031847989273
+                },
+                "southwest" : {
+                   "lat" : 9.944443820107276,
+                   "lng" : 76.27761882010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Navy Children School Kochi",
+          "photos" : [
+             {
+                "height" : 2304,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107605525116529819382\"\u003eRakesh Kr\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA94djfTQFlNsMPfUyj236eXspNIdBJnLf0bJCf8DYGywjZcVsvVhDBvaCJN0-lMtjUT67ygq5w_nP2piFpjMKUv8np3xhqz-5A3rjV0rKdEfjsD_a-uzt6g-ybj-mZ1IzEhA_YLAdn7VlvJq2m1qcuhGQGhSmDo6tOZV317x9Yac_rCgpF7HAFQ",
+                "width" : 4096
+             }
+          ],
+          "place_id" : "ChIJZYRPkJByCDsRr-xScBdTWog",
+          "plus_code" : {
+             "compound_code" : "W7WH+9J Kochi, Kerala",
+             "global_code" : "6JXRW7WH+9J"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJZYRPkJByCDsRr-xScBdTWog",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 81
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Syrian Church Ln, Palluruthy, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.928999299999999,
+                "lng" : 76.27034890000002
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.93036307989272,
+                   "lng" : 76.27172737989272
+                },
+                "southwest" : {
+                   "lat" : 9.927663420107276,
+                   "lng" : 76.26902772010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "St Thomas LP School",
+          "permanently_closed" : true,
+          "place_id" : "ChIJ2YsqHYBtCDsRfhZPKG_WZxQ",
+          "plus_code" : {
+             "compound_code" : "W7HC+H4 Kochi, Kerala",
+             "global_code" : "6JXRW7HC+H4"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ2YsqHYBtCDsRfhZPKG_WZxQ",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 0
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Tower Road, Fort Kochi, Kerala 682001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.966063999999999,
+                "lng" : 76.243386
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.967333679892722,
+                   "lng" : 76.24496967989273
+                },
+                "southwest" : {
+                   "lat" : 9.964634020107278,
+                   "lng" : 76.24227002010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "The Delta Study",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117744541095508819557\"\u003eStephen Abraham\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAG4zez1zUwbJ4vSvpTpHAHnBBPxctGZB2ZVdSiq3gyY-jRIiJD8qRdUcfxIwrJqSkYv0lGNiMbHXCrTB8K2HbizW8K7-OZh7JaW-ZJB1QhAyTd9KThm1YtRwyQsAHAqSnEhB3uNOcv3gJrwWbHZMU_BdNGhQWYMYT0Gvp5lNhtNs7yUW7UkQf_Q",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ5boNoDZtCDsRaDJx9BwnaYE",
+          "plus_code" : {
+             "compound_code" : "X68V+C9 Kochi, Kerala",
+             "global_code" : "6JXRX68V+C9"
+          },
+          "rating" : 4.7,
+          "reference" : "ChIJ5boNoDZtCDsRaDJx9BwnaYE",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 50
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Pandit Karuppan Rd, Thevara, Kochi, Kerala 682013, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.938219399999999,
+                "lng" : 76.29857509999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.939593129892721,
+                   "lng" : 76.29981982989273
+                },
+                "southwest" : {
+                   "lat" : 9.936893470107277,
+                   "lng" : 76.29712017010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Sacred Heart CMI Public School",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 354,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110946372609456271228\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAF6bAbDQTu7n-DrFPEbp0Ml-U_ZqwnzyxkXUBuxHJMGPZukHUy99lGOK_zoqPWUBCgvkrjTKRo72_R4zYWUhtqyaegxU_7RYIUe797zolX5z-7iSQvtcFwJmeEccvcyC2EhDlx75-A5fGVr2tb5NRa_h5GhQnJIRRD1R5a1Cnkg3on2brISocqw",
+                "width" : 752
+             }
+          ],
+          "place_id" : "ChIJL2og-fJyCDsRz-HLLcqMyFw",
+          "plus_code" : {
+             "compound_code" : "W7QX+7C Kochi, Kerala",
+             "global_code" : "6JXRW7QX+7C"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJL2og-fJyCDsRz-HLLcqMyFw",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 159
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "P.O, Thiruvaniyoor, Thiruvankulam - Chottanikkara Rd, Kochi, Kerala 682308, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.92896,
+                "lng" : 76.41367
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.930383229892723,
+                   "lng" : 76.41512207989271
+                },
+                "southwest" : {
+                   "lat" : 9.927683570107279,
+                   "lng" : 76.41242242010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "Global Public School",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 405,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104857764251156865391\"\u003eGlobal public school athletic ground\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAOvIKr8kCYMCq4Smlsde-_8Acc5ibjQNmcwFzUGec5mP1Fd1fkY6vRtEVSu43jYI6egiUSICNfBKbRxyduHiEayfJq_0uHlpif5pwZ5qx7JZImq9XYhTew_MqQIDGFsALEhAUUphAin5xe3zwEjD2OADZGhQCIoi5B6ucfe9Wcg-J2gE45F7yHA",
+                "width" : 1204
+             }
+          ],
+          "place_id" : "ChIJtRtpz2F0CDsRhTAgIaKW8bk",
+          "plus_code" : {
+             "compound_code" : "WCH7+HF Kochi, Kerala",
+             "global_code" : "6JXRWCH7+HF"
+          },
+          "rating" : 3.6,
+          "reference" : "ChIJtRtpz2F0CDsRhTAgIaKW8bk",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 147
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "ARA-10, Palluruthy, Kochi, Kerala 682005, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 9.9238935,
+                "lng" : 76.27066889999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 9.925327429892722,
+                   "lng" : 76.27192222989271
+                },
+                "southwest" : {
+                   "lat" : 9.922627770107278,
+                   "lng" : 76.26922257010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+          "name" : "SVD English Medium School Vidyanikethan",
+          "permanently_closed" : true,
+          "place_id" : "ChIJrSaIrIBtCDsRdf-B5JKiDvI",
+          "plus_code" : {
+             "compound_code" : "W7FC+H7 Kochi, Kerala",
+             "global_code" : "6JXRW7FC+H7"
+          },
+          "rating" : 3,
+          "reference" : "ChIJrSaIrIBtCDsRdf-B5JKiDvI",
+          "types" : [ "school", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1
+       }
+    ],
+    "status" : "OK"
+ }
